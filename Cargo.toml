@@ -1,0 +1,11 @@
+[package]
+name = "hwid_generator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+get_if_addrs = "0.5"
+bitmask-enum = "2.2.5"
+magic-crypt = "3.0"
+sysinfo = "0.32"
+mac_address = "1.1.0"
