@@ -10,7 +10,6 @@ pub enum Combinations {
     KernelVersion,
     CoresCount,
     DiskNames,
-    // MacAddresses omitted for simplicity in this example
 }
 
 pub fn get_hwid(combinations: Combinations, key: &str) -> String {

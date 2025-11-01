@@ -1,0 +1,10 @@
+# Rust build output
+target/
+
+# Editor/IDE files
+*.rs.bk
+.idea/
+.vscode/
+
+# Dependency directories
+Cargo.lock
